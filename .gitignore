@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#IDE
+.vscode
+
+# Dist
+src/dist/
+
+# Packages
+packages
